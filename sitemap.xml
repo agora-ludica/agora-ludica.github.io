@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://hugo.agoraludica.eu/</loc>
+    <lastmod>2020-05-08T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.agoraludica.eu/categories/</loc>
+    <lastmod>2020-05-08T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.agoraludica.eu/tags/italian/</loc>
+    <lastmod>2020-05-08T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.agoraludica.eu/posts/</loc>
+    <lastmod>2020-05-08T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.agoraludica.eu/posts/2020-05-08-seoyun/</loc>
+    <lastmod>2020-05-08T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.agoraludica.eu/categories/shades-of-v5/</loc>
+    <lastmod>2020-05-08T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.agoraludica.eu/tags/</loc>
+    <lastmod>2020-05-08T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.agoraludica.eu/tags/vampire-the-masquerade/</loc>
+    <lastmod>2020-05-08T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.agoraludica.eu/posts/2019-19-01-diegesi-mimesi-gdr/</loc>
+    <lastmod>2019-01-19T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.agoraludica.eu/categories/thoughts/</loc>
+    <lastmod>2019-01-19T12:00:00+02:00</lastmod>
+  </url>
+  
+</urlset>

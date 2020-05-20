@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts on Agorà Ludica</title>
+    <link>http://hugo.agoraludica.eu/categories/thoughts/</link>
+    <description>Recent content in Thoughts on Agorà Ludica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Sat, 19 Jan 2019 12:00:00 +0200</lastBuildDate>
+    <atom:link href="http://hugo.agoraludica.eu/categories/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Diegesi e mimesi nel gioco di ruolo</title>
+      <link>http://hugo.agoraludica.eu/posts/2019-19-01-diegesi-mimesi-gdr/</link>
+      <pubDate>Sat, 19 Jan 2019 12:00:00 +0200</pubDate>
+      <guid>http://hugo.agoraludica.eu/posts/2019-19-01-diegesi-mimesi-gdr/</guid>
+      <description>&lt;p&gt;Mi sono ritrovata a leggere alcuni testi riguardo i tipi di giochi di ruolo dal vivo (o larp) e mi sono imbattuta nell’aggettivo “diegetico”. Mi sono chiesta cosa significasse non tanto la parola stessa, ma associata al contesto e nel chiedere informazioni a degli amici ne è nata una discussione interessante.&lt;/p&gt;
+&lt;p&gt;Ho chiesto aiuto a Riccardo Bongiovanni (amministratore della pagina Facebook &lt;a href=&#34;https://www.facebook.com/AvventurieroPrecario/&#34;&gt;L&amp;rsquo;avventuriero precario&lt;/a&gt;) per scrivere questo articolo e aiutarmi a fare le riflessioni che vi esporrò sotto.&lt;/p&gt;
+&lt;p&gt;Non ho la pretesa di scrivere un articolo di stampo accademico. Sono principalmente delle libere riflessioni; sarò curiosa di leggere eventuali commenti e ritrovarmi, poi, magari ad ampliare il discorso con un secondo articolo sul tema.&lt;/p&gt;
+&lt;h2 id=&#34;cosa-sono-diegesi-e-mimesi&#34;&gt;Cosa sono diegesi e mimesi?&lt;/h2&gt;
+&lt;p&gt;Il linguaggio che usiamo dà forma ai nostri pensieri, per questo, quando ampliamo le nostre forme di linguaggio, cambia anche il modo in cui pensiamo.&lt;/p&gt;
+&lt;p&gt;Partiamo da una breve spiegazione di cosa siano la diegesi e la mimesi:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Il termine “diegesi” indica una narrazione svolta interamente da un narratore manifesto. Vale a dire che il narratore descrive l’andamento delle vicende, i personaggi, i loro pensieri e le loro relazioni e tutte le altre informazioni importanti. Lo spettatore non deve interpretare nulla, ma solo ricevere ciò che gli viene fornito.&lt;/p&gt;
+&lt;p&gt;Questo modo di narrare si contrappone alla “mimesi”, in cui non esiste un narratore, bensì le vicende sono rievocate attraverso la parola e il gesto di personaggi coinvolti. I personaggi stessi descrivono le proprie sensazioni o le fanno intendere tramite il gesto. Ciò che non ci viene fornito dai personaggi ci è ignoto.&lt;/p&gt;
+&lt;p&gt;Per fare un esempio, la narrazione diegetica è rappresentata dalla sceneggiatura di un film, mentre il film stesso è un esempio di mimesi.&lt;br&gt;
+— Riccardo Bongiovanni&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;come-entra-tutto-ciò-nel-gioco-di-ruolo&#34;&gt;Come entra tutto ciò nel gioco di ruolo?&lt;/h2&gt;
+&lt;p&gt;Prendiamo ora questi due concetti e applichiamoli ai giochi di ruolo.&lt;/p&gt;
+&lt;p&gt;Per poter scrivere un gioco o analizzarlo in maniera critica è importante saperne separare le componenti. Per prima cosa, è necessario riconoscere ciò che fa parte della giocata e ciò che, invece, è parte del gioco.&lt;/p&gt;
+&lt;p&gt;Può sembrare strano questo discorso, ma non è così scontato. In particolare, nei giochi &lt;em&gt;freeform&lt;/em&gt;, dove le regole non sono molte e lasciano ampio spazio ai giocatori di narrare o interpretare ciò che vogliono, il confine tra il gioco stesso e la giocata può risultare più sfumato.&lt;/p&gt;
+&lt;p&gt;Andiamo, dunque, a identificare cosa in un gioco di ruolo appartiene alla diegesi e cosa alla mimesi, permettendo anche a voi di poter individuare questi elementi.&lt;/p&gt;
+&lt;p&gt;In un gioco di ruolo da tavolo o dal vivo, la diegesi può essere rilevata se c’è una struttura di storia, con scene predecise o eventi che avverranno (esempi: &lt;a href=&#34;http://www.narrattiva.it/it/shop/tabellone-e-segnalini/montsegur-1244/&#34;&gt;Montsegur 1244&lt;/a&gt; e &lt;a href=&#34;http://www.narrattiva.it/it/shop/tabellone-e-segnalini/dubbio/&#34;&gt;Dubbio&lt;/a&gt;). Vanno anche considerati i giochi che prevedono un finale più o meno definito fin dall’inizio, ad esempio &lt;a href=&#34;http://cavalrygames.com/ten-candles/&#34;&gt;Ten Candles&lt;/a&gt; avverte fin dall’inizio che nel finale della giocata tutti i personaggi saranno morti.&lt;/p&gt;
+&lt;p&gt;Nel gioco di ruolo dal vivo è più facile distinguere ciò che appartiene all’ambito della mimesi perché, solitamente, tu sei il tuo personaggio anche fisicamente: ogni gesto che fai e ogni parola che dici sono ciò che il tuo personaggio sta facendo e dicendo. Nel gioco di ruolo al tavolo, invece, è praticamente impossibile non passare per uno stile diegetico durante la giocata perché, per forza di cose, devi raccontare cosa fa il tuo personaggio e descriverlo, dato che gli altri non lo vedono con i loro occhi.&lt;/p&gt;
+&lt;p&gt;In questo caso, non si può parlare di diegesi pura, poiché il giocatore, solitamente, non sa che esiti avranno le sue azioni, mentre il ruolo del master è più facilmente riconducibile alla vera e propria diegesi. In molti giochi è il master (GM, Narratore, MC, Custode, ecc.) a descrivere gli esiti delle azioni degli altri giocatori. Da notare che non è importante che il ruolo sia ricoperto sempre dalla stessa persona: ad esempio, in &lt;a href=&#34;http://www.narrattiva.it/it/shop/libro/annalise-2-edizione/&#34;&gt;Annalise&lt;/a&gt; la Guida sarà un ruolo ricoperto da tutti i giocatori, nel corso della partita.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Per esempio, in &lt;a href=&#34;https://scenariofestival.se/archive/scenarios-2014/i-say-a-little-prayer/&#34;&gt;I Say a Little Prayer&lt;/a&gt; le vicende sono ambientate in un luogo preciso, determinati eventi devono accadere e i PG devono compiere necessariamente alcuni gesti. Questa componente è diegetica,ma queste cose non entrano nella scena: sono a monte, nella scena non le vedi; vedi, invece, i dialoghi tra i PG e i loro comportamenti mandare avanti la storia. Quella è mimesi.&lt;br&gt;
+— Riccardo Bongiovanni&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Al giorno d’oggi, esistono molti termini inglesi per definire sia le parti dei giochi che i tipi di giochi: questi termini sono molto utili per creare un linguaggio comune a livello internazionale. Ad ogni modo, mi interessava utilizzare dei termini della nostra lingua per vedere se mi avrebbero portato a riflessioni nuove ed, effettivamente, ora vedo alcune parti dei giochi di ruolo sotto un’altra prospettiva.&lt;/p&gt;
+&lt;h1 id=&#34;bibliografia&#34;&gt;Bibliografia&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Platone, Repubblica X&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
