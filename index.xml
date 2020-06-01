@@ -6,8 +6,119 @@
     <description>Recent content on Agorà Ludica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
-    <lastBuildDate>Fri, 08 May 2020 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 12:00:00 +0200</lastBuildDate>
     <atom:link href="http://hugo.agoraludica.eu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sensi dell&#39;avventuriero</title>
+      <link>http://hugo.agoraludica.eu/posts/2020-06-01-sensi-avventuriero/</link>
+      <pubDate>Mon, 01 Jun 2020 12:00:00 +0200</pubDate>
+      <guid>http://hugo.agoraludica.eu/posts/2020-06-01-sensi-avventuriero/</guid>
+      <description>&lt;p&gt;Una riflessione sul ruolo delle trappole in Dungeon World&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;itsatrap-2-1280x720.jpg&#34; alt=&#34;L&amp;rsquo;ammiraglio Ackbar di Star Wars che avvisa che c&#39;è una trappola&#34; title=&#34;L&#39;ammiraglio Ackbar di Star Wars che avvisa che c&#39;è una trappola&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;la-trappola-di-schrodinger&#34;&gt;La trappola di Schrodinger&lt;/h2&gt;
+&lt;p&gt;L&amp;rsquo;altro giorno stavo facendo da GM a Dungeon World, libera e felice come una farfalla.&lt;/p&gt;
+&lt;p&gt;Ho deciso di introdurre un ambiente sotterraneo che mi piaceva, un corridoio orizzontale con da un lato un baratro largo mezzo metro, ma di 5-6 metri di profondità.&lt;/p&gt;
+&lt;p&gt;Non avevo particolari idee in proposito, era solo un ambiente che mi piaceva, e non avevo pensato a cosa ci potesse essere dentro.&lt;/p&gt;
+&lt;p&gt;Chi giocava il Ladro ha detto &amp;ldquo;Ok, cerco trappole&amp;rdquo;. Giustamente, è un Ladro. I Ladri cercano trappole. E se ho descritto quell&amp;rsquo;ambiente ci sarà un motivo, no?&lt;/p&gt;
+&lt;p&gt;Ecco, la trappola non c&amp;rsquo;era, fino a quel momento. Perché non avevo pensato che ci potesse essere. Ma in quel momento ci ho pensato, e ho detto &amp;ldquo;Perché no? Ci sarà una trappola!&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Se chi giocava il Ladro non avesse detto niente, non avrei pensato a mettere la trappola, e a tutti i fatti non ci sarebbe stata!&lt;/p&gt;
+&lt;h2 id=&#34;ok-e-quindi&#34;&gt;Ok, e quindi?&lt;/h2&gt;
+&lt;p&gt;E quindi la cosa mi ha fatto pensare. È inevitabile che le cose si creino durante il gioco: in qualsiasi momento il GM si può trovare ad inventare, a colmare i vuoti lasciati dalla preparazione. Ma la faccenda delle trappole mi lasciava un sapore strano in bocca. C&amp;rsquo;era un ingrediente strano che non sapevo identificare.&lt;/p&gt;
+&lt;p&gt;Ecco il testo della mossa:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ESPERTO DI TRAPPOLE&lt;br&gt;
+Quando ti prendi un momento per ispezionare un’area pericolosa,&lt;br&gt;
+tira+DES. Con 10+, prendi 3; con 7-9, prendi 1.&lt;br&gt;
+Spendi le tue prese mentre cammini attraverso l’area per avere risposta&lt;br&gt;
+alle seguenti domande:&lt;br&gt;
+• C’è una trappola qui, e se è così cosa la attiva?&lt;br&gt;
+• Cosa fa la trappola, una volta attivata?&lt;br&gt;
+• Cos’altro c’è di nascosto, qui?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Quindi ipotizziamo i vari casi:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;C&#39;è la trappola prima che parli il ladro?&lt;/th&gt;
+&lt;th&gt;Il Ladro cerca trappole?&lt;/th&gt;
+&lt;th&gt;C&#39;è la trappola dopo che ha parlato il ladro?&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;NO&lt;/td&gt;
+&lt;td&gt;NO&lt;/td&gt;
+&lt;td&gt;NO&lt;/td&gt;
+&lt;td&gt;Ok, gioco normale&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;NO&lt;/td&gt;
+&lt;td&gt;NO&lt;/td&gt;
+&lt;td&gt;SI&lt;/td&gt;
+&lt;td&gt;Il GM è uno stronzo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;NO&lt;/td&gt;
+&lt;td&gt;SI&lt;/td&gt;
+&lt;td&gt;NO&lt;/td&gt;
+&lt;td&gt;Sembra un tiro un po&amp;rsquo; inutile&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;NO&lt;/td&gt;
+&lt;td&gt;SI&lt;/td&gt;
+&lt;td&gt;SI&lt;/td&gt;
+&lt;td&gt;A conti fatti la trappola è stata creata dalla ricerca&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SI&lt;/td&gt;
+&lt;td&gt;NO&lt;/td&gt;
+&lt;td&gt;NO&lt;/td&gt;
+&lt;td&gt;Uhm, perché stai facendo così GM? Sembra sospetto&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SI&lt;/td&gt;
+&lt;td&gt;NO&lt;/td&gt;
+&lt;td&gt;SI&lt;/td&gt;
+&lt;td&gt;Occasione su un piatto d&amp;rsquo;argento. Scatta la trappola&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SI&lt;/td&gt;
+&lt;td&gt;SI&lt;/td&gt;
+&lt;td&gt;NO&lt;/td&gt;
+&lt;td&gt;Mi stai pigliando per il culo, GM?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SI&lt;/td&gt;
+&lt;td&gt;SI&lt;/td&gt;
+&lt;td&gt;SI&lt;/td&gt;
+&lt;td&gt;Ok, ho trovato la trappola&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;a-cosa-serve-una-trappola&#34;&gt;A cosa serve una trappola?&lt;/h2&gt;
+&lt;p&gt;Le trappole nascono come sfide. Quando esplorare un dungeon è questione di essere più duri dei duri e più furbi dei furbi, le trappole sono qualcosa che ti mette alla prova. Riuscirai a capire che c&#39;è una trappola dagli indizi che ha lasciato il GM? Riuscirai a trovare il modo di disinnescarla prima che ti costi preziosi punti ferita o addirittura la vita?&lt;/p&gt;
+&lt;p&gt;Dungeon World però non è proprio così. Non vuole metterti alla prova. Non davvero. Le cose che interessano sono differenti, e in comune con i giochi di esplorazione dungeon ha solo l&amp;rsquo;estetica.&lt;/p&gt;
+&lt;p&gt;Per questo invece di usare l&amp;rsquo;approccio di far capire a chi gioca se c&#39;è una trappola e come disinnescarla, demanda la cosa a un tiro di dado.&lt;/p&gt;
+&lt;p&gt;Il problema è che poche interazioni della tabella sopra sembrano davvero interessanti.&lt;/p&gt;
+&lt;h2 id=&#34;come-esplorare-un-dungeon-in-dungeon-world&#34;&gt;Come esplorare un Dungeon in Dungeon World&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Il fatto è che in Dungeon World non dovresti fermarti a chiedere &amp;lsquo;Cosa Fate&amp;rsquo; se non c&#39;è niente da fare. Se vuoi far vedere gli ambienti del dungeon ci sta, ma non ti devi fermare. Puoi anche dire quello che fanno i personaggi, se è sensato. Puoi dire per esempio che entrano dalla grossa porta di legno, scendono i gradini umidi della cantina, seguono il cunicolo che porta a una stanza con un tavolo di legno ribaltato, si intrufolano nella crepa nella parete e arrivano in una grande sala buia, dove si intravedono delle grosse sagome appese al soffitto. Potrebbero sembrare dei pipistrelli, se non fosse che sono di dimensioni umane. Cosa fate?&lt;br&gt;
+-Spiegel-&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Quando il GM dice &amp;ldquo;Cosa Fate&amp;rdquo;, è lì che iniziano le scelte che importano davvero. Con questo approccio la mossa di Cercare Trappole ha ancora meno senso. Se ti fermi a chiedere &amp;ldquo;Cosa Fate&amp;rdquo; in una stanza dove c&#39;è una trappola, il Ladro non ha molte scelte se non tirare il dado e vedere se trova la trappola.&lt;/p&gt;
+&lt;h2 id=&#34;sensi-dellavventuriero&#34;&gt;Sensi dell&amp;rsquo;avventuriero&lt;/h2&gt;
+&lt;p&gt;Una possibile soluzione è sostituire la mossa con una molto più semplice:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;SENSI DELL&amp;rsquo;AVVENTURIERO&lt;br&gt;
+Hai esperienza con trappole e meccanismi e sei sempre all&amp;rsquo;erta. Il GM ti dirà sempre se ci sono trappole o meccanismi nascosti nei paraggi.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Questo perché la domanda interessante, nel caso di Dungeon World, non è se il Ladro trova o meno la trappola, ma cosa fa dopo averla trovata.&lt;/p&gt;
+&lt;h2 id=&#34;e-se-non-cè-un-ladro-nel-nostro-party&#34;&gt;E se non c&#39;è un ladro nel nostro party?&lt;/h2&gt;
+&lt;p&gt;Vi sucate le trappole, losers.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Seoyun</title>
