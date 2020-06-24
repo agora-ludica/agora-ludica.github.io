@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Agorà Ludica</title>
-    <link>http://hugo.agoraludica.eu/categories/</link>
+    <link>http://www.agoraludica.eu/categories/</link>
     <description>Recent content in Categories on Agorà Ludica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
     <lastBuildDate>Mon, 01 Jun 2020 12:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://hugo.agoraludica.eu/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.agoraludica.eu/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Thoughts</title>
-      <link>http://hugo.agoraludica.eu/categories/thoughts/</link>
+      <link>http://www.agoraludica.eu/categories/thoughts/</link>
       <pubDate>Mon, 01 Jun 2020 12:00:00 +0200</pubDate>
       
-      <guid>http://hugo.agoraludica.eu/categories/thoughts/</guid>
+      <guid>http://www.agoraludica.eu/categories/thoughts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shades of V5</title>
-      <link>http://hugo.agoraludica.eu/categories/shades-of-v5/</link>
+      <link>http://www.agoraludica.eu/categories/shades-of-v5/</link>
       <pubDate>Fri, 08 May 2020 12:00:00 +0200</pubDate>
       
-      <guid>http://hugo.agoraludica.eu/categories/shades-of-v5/</guid>
+      <guid>http://www.agoraludica.eu/categories/shades-of-v5/</guid>
       <description></description>
     </item>
     

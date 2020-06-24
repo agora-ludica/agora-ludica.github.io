@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dungeon World on Agorà Ludica</title>
-    <link>http://hugo.agoraludica.eu/tags/dungeon-world/</link>
+    <link>http://www.agoraludica.eu/tags/dungeon-world/</link>
     <description>Recent content in Dungeon World on Agorà Ludica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
     <lastBuildDate>Mon, 01 Jun 2020 12:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://hugo.agoraludica.eu/tags/dungeon-world/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.agoraludica.eu/tags/dungeon-world/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sensi dell&#39;avventuriero</title>
-      <link>http://hugo.agoraludica.eu/posts/2020-06-01-sensi-avventuriero/</link>
+      <link>http://www.agoraludica.eu/posts/2020-06-01-sensi-avventuriero/</link>
       <pubDate>Mon, 01 Jun 2020 12:00:00 +0200</pubDate>
       
-      <guid>http://hugo.agoraludica.eu/posts/2020-06-01-sensi-avventuriero/</guid>
+      <guid>http://www.agoraludica.eu/posts/2020-06-01-sensi-avventuriero/</guid>
       <description>&lt;p&gt;Una riflessione sul ruolo delle trappole in Dungeon World&lt;/p&gt;</description>
     </item>
     

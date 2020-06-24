@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thoughts on Agorà Ludica</title>
-    <link>http://hugo.agoraludica.eu/categories/thoughts/</link>
+    <link>http://www.agoraludica.eu/categories/thoughts/</link>
     <description>Recent content in Thoughts on Agorà Ludica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
     <lastBuildDate>Mon, 01 Jun 2020 12:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://hugo.agoraludica.eu/categories/thoughts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.agoraludica.eu/categories/thoughts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sensi dell&#39;avventuriero</title>
-      <link>http://hugo.agoraludica.eu/posts/2020-06-01-sensi-avventuriero/</link>
+      <link>http://www.agoraludica.eu/posts/2020-06-01-sensi-avventuriero/</link>
       <pubDate>Mon, 01 Jun 2020 12:00:00 +0200</pubDate>
       
-      <guid>http://hugo.agoraludica.eu/posts/2020-06-01-sensi-avventuriero/</guid>
+      <guid>http://www.agoraludica.eu/posts/2020-06-01-sensi-avventuriero/</guid>
       <description>&lt;p&gt;Una riflessione sul ruolo delle trappole in Dungeon World&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Diegesi e mimesi nel gioco di ruolo</title>
-      <link>http://hugo.agoraludica.eu/posts/2019-19-01-diegesi-mimesi-gdr/</link>
+      <link>http://www.agoraludica.eu/posts/2019-19-01-diegesi-mimesi-gdr/</link>
       <pubDate>Sat, 19 Jan 2019 12:00:00 +0200</pubDate>
       
-      <guid>http://hugo.agoraludica.eu/posts/2019-19-01-diegesi-mimesi-gdr/</guid>
+      <guid>http://www.agoraludica.eu/posts/2019-19-01-diegesi-mimesi-gdr/</guid>
       <description>&lt;p&gt;Mi sono ritrovata a leggere alcuni testi riguardo i tipi di giochi di ruolo dal vivo (o larp) e mi sono imbattuta nell’aggettivo “diegetico”. Mi sono chiesta cosa significasse non tanto la parola stessa, ma associata al contesto e nel chiedere informazioni a degli amici ne è nata una discussione interessante.&lt;/p&gt;</description>
     </item>
     
