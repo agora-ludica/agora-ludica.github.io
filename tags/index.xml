@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Agorà Ludica</title>
@@ -7,7 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
     <lastBuildDate>Mon, 01 Jun 2020 12:00:00 +0200</lastBuildDate>
-    <atom:link href="http://hugo.agoraludica.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://hugo.agoraludica.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dungeon World</title>
+      <link>http://hugo.agoraludica.eu/tags/dungeon-world/</link>
+      <pubDate>Mon, 01 Jun 2020 12:00:00 +0200</pubDate>
+      
+      <guid>http://hugo.agoraludica.eu/tags/dungeon-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian</title>
+      <link>http://hugo.agoraludica.eu/tags/italian/</link>
+      <pubDate>Mon, 01 Jun 2020 12:00:00 +0200</pubDate>
+      
+      <guid>http://hugo.agoraludica.eu/tags/italian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vampire: The Masquerade</title>
+      <link>http://hugo.agoraludica.eu/tags/vampire-the-masquerade/</link>
+      <pubDate>Fri, 08 May 2020 12:00:00 +0200</pubDate>
+      
+      <guid>http://hugo.agoraludica.eu/tags/vampire-the-masquerade/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
